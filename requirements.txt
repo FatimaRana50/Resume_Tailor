@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchainhub
+langchain-cli
+langchain-core
+langchain-experimental
+faiss-cpu
+sentence-transformers
+transformers
+huggingface-hub
+pypdf
+python-dotenv
