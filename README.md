@@ -1,8 +1,8 @@
-🎯 Resume Tailor – AI-Powered Resume Enhancement
+# 🎯 Resume Tailor – AI-Powered Resume Enhancement
 Tailor your resume to specific job descriptions using the power of LLMs!
 This tool compares your resume with a given job description and suggests personalized improvements to increase your chances of landing interviews.
 
-🚀 Features
+# 🚀 Features
 🧠 Uses powerful LLMs via OpenRouter for deep semantic matching
 
 📄 Upload both Resume and Job Description in .txt or .pdf formats
@@ -13,7 +13,8 @@ This tool compares your resume with a given job description and suggests persona
 
 🔐 No data stored – all processing is done in-memory for privacy
 
-🖼 Preview
+# 🖼 Preview
+
 📌 Home Interface
 
 ![](images/p-3.PNG)
@@ -39,7 +40,7 @@ This tool compares your resume with a given job description and suggests persona
 
 
 
-🧑‍💻 How It Works
+# 🧑‍💻 How It Works
 Upload your resume and job description
 
 The app processes and chunks the content
@@ -48,7 +49,7 @@ A Retrieval-Augmented Generation (RAG) pipeline compares them
 
 Suggestions are shown to tailor your resume for the job
 
-📦 Setup Instructions
+# 📦 Setup Instructions
 Clone the repo
 
 ```
@@ -79,7 +80,7 @@ Run the app
 streamlit run app.py
 ```
 
-📁 Project Structure
+# 📁 Project Structure
 css
 Copy
 Edit
@@ -94,7 +95,7 @@ Resume_Tailor/
 │   ├── p-4.PNG
 │   ├── p-5.PNG
 │   └── p-6.PNG
-💡 Future Improvements
+# 💡 Future Improvements
 Section-based resume feedback
 
 Visual diff highlighting improvements
